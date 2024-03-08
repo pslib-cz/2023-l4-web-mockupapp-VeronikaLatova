@@ -5,8 +5,8 @@ Aplikace "Název projektu" slouží k trackování týdenních cílů. Není jen
 Jsou zabudovány kategorie činností, které se mohou zaznamenávat. Je to velmi jednoduché, proto je kategorií jen pár (pohyb, zdravá strava, pitný režim, produktivita (práce, škola, vlastní projekty), vzdělání, relax, ...). Aplikace je vhodná pro ty, kteří si chtějí zlepšit svůj životní styl zajímavějším způsobem.
 
 Nápady na jméno:
-Adventurer's Almanac: Epic Endeavors
-Adventure Arcanum: Quests of Mastery
-Arcane Tracker: Quests of Discipline
-Fantasy Forge: Quest Tracker
-Enchant Quest: Habit Journeys
+- Adventurer's Almanac: Epic Endeavors
+- Adventure Arcanum: Quests of Mastery
+- Arcane Tracker: Quests of Discipline
+- Fantasy Forge: Quest Tracker
+- Enchant Quest: Habit Journeys
