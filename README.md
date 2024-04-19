@@ -20,9 +20,13 @@ Co se týče kruhu a jeho naplňování - je rozdělen na úseky podle čísla, 
 
 ### Achievements and awards:
 Stránka s oceněními získanými za poslední měsíc. Stránka se vyčistí právě jednou měsíčně.
+![Achievements](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/18c40303-cfb3-45fa-82af-261059546437)
+
 
 ### My motivation:
-Motivacce uživatele v průběhu zadávání aktivit. Zůstává tu asi na trvalo, nevím. Uživatel si může zpětně přečíst, co ho motivovalo danou aktivitu plnit.
+Motivace uživatele v průběhu zadávání aktivit. Uživatel si může zpětně přečíst, co ho motivovalo danou aktivitu plnit. Do této sekce se zaznamenává motivace za celou dobu používání aplikace. To, jestli si uživatel napíše něco k motivaci, je na něm.
+![My motivation](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/2e9b3ba3-47cc-4d7e-9113-171412edb9cb)
+
 
 ### Setting a new habit:
 Zadávání nového cíle - tato stránka se zobrazí po kliknutí na jednu z aktivit, ve které se chce uživatel zlepšit. Uživatel vyplní, kolikrát týdně se chce aktivitě věnovat, co přesně chce dělat a může (nemusí) napsat motivaci. Po uložení (při ukládání) nového cíle se zobrazí obrazovka s "New goal set!". Po zadání aktivity se uživatel objeví opět na mainpage (progress) stránce, kde se již zobrazí nově zadaná aktivita, zatím bez žlutého progressu (logicky).
@@ -32,3 +36,5 @@ Nástřel možného vzhledu a obsahu nastavení. Detaily v nastavení jsou jen p
  
 ### Vizuál a barvy
 Vývojář může zvolit využití barev, jak se mu zalíbí. Ve Figmě se nachází doporučená paleta barev, které by se mohly k projektu hodit. Já pro tento projekt ponechám jednoduchý a čistý design.
+![image 1](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/a88e2cf4-eda6-4bf6-8400-6d5782c9bc81)
+
