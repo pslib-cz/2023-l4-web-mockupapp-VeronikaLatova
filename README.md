@@ -7,14 +7,14 @@ Jsou zabudovány kategorie činností, které se mohou zaznamenávat. Je to velm
 
 ## Aplikace má několik sekcí (stránek) a to:
 
-# Mainpage (My progress): 
+### Mainpage (My progress): 
 Hlavní stránka, na které se uživatel objeví po otevření aplikace. Na této stránce je vidět progress uživatele s jeho aktivitami, na kterých momentálně pracuje (to se pohybuje v týdenních cyklech). Jedná se totiž o návyky, které si uživatel stanovuje na týden. Jakmile uživatel splní aktivitu, klikne na checkbox a kolečko se naplní o určitý kus.
 
 Na této stránce se jednotlivé kruhy s aktivitou dají rozkliknout. Uživatel vidí zpětně co si zadal za konkrétní cíl (čemu se přesně věnuje, kolikrát týdně a jeho motivace) . Tato stránka je skoro stejná, jako u zadávání nového cíle, ale má upravená některá slova a chybí tlačítko "done".
 
 Co se týče kruhu a jeho naplňování - je rozdělen na úseky podle čísla, které si uživatel stanovil při zapisování nového habitu. Jakmile uživatel dosáhne celého žlutého kruhu, aktivita se ukáže jako dokončená a objeví se v awards jako splněná. Pokud uživatel udělal během měsíce aktivitu vícekrát (což je očekáváno), u daného ocenění se objeví číslo podle toho, kolikrát je aktivita již dokončena.
 
-# Achievements and awards:
+## Achievements and awards:
 Stránka s oceněními získanými za poslední měsíc. Stránka se vyčistí právě jednou měsíčně.
 
 # My motivation:
