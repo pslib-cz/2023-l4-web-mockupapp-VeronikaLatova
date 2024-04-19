@@ -12,6 +12,7 @@ Jsou zabudovány kategorie činností, které se mohou zaznamenávat. Je to velm
 Hlavní stránka, na které se uživatel objeví po otevření aplikace. Na této stránce je vidět progress uživatele s jeho aktivitami, na kterých momentálně pracuje (to se pohybuje v týdenních cyklech). Jedná se totiž o návyky, které si uživatel stanovuje na týden. Jakmile uživatel splní aktivitu, klikne na checkbox a kolečko se naplní o určitý kus.
 ![Mainpage - progress](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/a1ecea3a-5d17-4c9c-ae14-043c51639e18)
 
+
 Na této stránce se jednotlivé kruhy s aktivitou dají rozkliknout. Uživatel vidí zpětně co si zadal za konkrétní cíl (čemu se přesně věnuje, kolikrát týdně a jeho motivace) . Tato stránka je skoro stejná, jako u zadávání nového cíle, ale má upravená některá slova a chybí tlačítko "done".
 ![My progress - click](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/179beb72-1717-474e-8eab-3a6c1d9cff73)
 
