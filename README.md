@@ -10,16 +10,20 @@ Jsou zabudovány kategorie činností, které se mohou zaznamenávat. Je to velm
 
 ### Mainpage (My progress): 
 Hlavní stránka, na které se uživatel objeví po otevření aplikace. Na této stránce je vidět progress uživatele s jeho aktivitami, na kterých momentálně pracuje (to se pohybuje v týdenních cyklech). Jedná se totiž o návyky, které si uživatel stanovuje na týden. Jakmile uživatel splní aktivitu, klikne na checkbox a kolečko se naplní o určitý kus.
+
 ![Mainpage - progress](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/a1ecea3a-5d17-4c9c-ae14-043c51639e18)
 
 Na této stránce se jednotlivé kruhy s aktivitou dají rozkliknout. Uživatel vidí zpětně co si zadal za konkrétní cíl (čemu se přesně věnuje, kolikrát týdně a jeho motivace) . Tato stránka je skoro stejná, jako u zadávání nového cíle, ale má upravená některá slova a chybí tlačítko "done".
+
 ![My progress - click](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/179beb72-1717-474e-8eab-3a6c1d9cff73)
 
 Co se týče kruhu a jeho naplňování - je rozdělen na úseky podle čísla, které si uživatel stanovil při zapisování nového habitu. Jakmile uživatel dosáhne celého žlutého kruhu, aktivita se ukáže jako dokončená a objeví se v awards jako splněná. Pokud uživatel udělal během měsíce aktivitu vícekrát (což je očekáváno), u daného ocenění se objeví číslo podle toho, kolikrát je aktivita již dokončena.
+
 ![Výstřižek](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/92384734-1e6c-4e0b-af9e-e0ee22c2a6a6)
 
 ### Achievements and awards:
 Stránka s oceněními získanými za poslední měsíc. Stránka se vyčistí právě jednou měsíčně.
+
 ![Achievements](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/18c40303-cfb3-45fa-82af-261059546437)
 
 
