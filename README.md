@@ -35,8 +35,14 @@ Motivace uživatele v průběhu zadávání aktivit. Uživatel si může zpětn�
 ### Setting a new habit:
 Zadávání nového cíle - tato stránka se zobrazí po kliknutí na jednu z aktivit, ve které se chce uživatel zlepšit. Uživatel vyplní, kolikrát týdně se chce aktivitě věnovat, co přesně chce dělat a může (nemusí) napsat motivaci. Po uložení (při ukládání) nového cíle se zobrazí obrazovka s "New goal set!". Po zadání aktivity se uživatel objeví opět na mainpage (progress) stránce, kde se již zobrazí nově zadaná aktivita, zatím bez žlutého progressu (logicky).
 
+![Setting a new habit](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/b11cf5b2-7ff5-457c-b9ff-11649bb2bbff)
+
+
 ### Settings:
 Nástřel možného vzhledu a obsahu nastavení. Detaily v nastavení jsou jen pro pokročilé a zaujaté jedince, kteří by měli s aplikací vážnější účely. Pokud by někdo chtěl projekt opravdu rozjet a hodně doladit, kdyžtak mě kontaktujte na emailu: latova.verca@seznam.cz a třeba se domluvíme (:D)
+
+![Set goal](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/2d109e90-546d-44a7-a84d-1965c4880403)
+
  
 ### Vizuál a barvy
 Vývojář může zvolit využití barev, jak se mu zalíbí. Ve Figmě se nachází doporučená paleta barev, které by se mohly k projektu hodit. Já pro tento projekt ponechám jednoduchý a čistý design.
