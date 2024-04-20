@@ -56,8 +56,11 @@ Nástřel možného vzhledu a obsahu nastavení. Detaily v nastavení jsou jen p
 ### Vizuál a barvy
 Vývojář může zvolit využití barev, jak se mu zalíbí. Ve Figmě se nachází doporučená paleta barev, které by se mohly k projektu hodit. Já pro tento projekt ponechám jednoduchý a čistý design.
 
+
 ![image 1](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/a88e2cf4-eda6-4bf6-8400-6d5782c9bc81)
 
 ### Font
 Použitý font písma je Lexend. Podrobnější informace jsou ve Figmě (o tom, jaké písmo je tučně a jaké normální či tenké).
 
+### Menu
+Uživatele po celou dobu používání provází jednoduché menu, přičemž je žlutou barvou vyznačena ikonka stránky, na které se nachází.
