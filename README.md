@@ -58,3 +58,6 @@ Vývojář může zvolit využití barev, jak se mu zalíbí. Ve Figmě se nach�
 
 ![image 1](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/a88e2cf4-eda6-4bf6-8400-6d5782c9bc81)
 
+### Font
+Použitý font písma je Lexend. Podrobnější informace jsou ve Figmě (o tom, jaké písmo je tučně a jaké normální či tenké).
+
