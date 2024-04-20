@@ -26,9 +26,11 @@ Stránka s oceněními získanými za poslední měsíc. Stránka se vyčistí p
 
 ![Achievements](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/18c40303-cfb3-45fa-82af-261059546437)
 
-Pokud uživatel zatím nemá žádná ocenění, ukáže se obrazovka s "No achievements yet. Keep going!"
+Pokud uživatel zatím nemá žádná ocenění, ukáže se obrazovka s "No achievements yet. Keep going!".
 
 ![Achievements - blank page](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/e7983eec-9f41-4290-b500-23b2dc3dc619)
+
+Seznam všech ocenění je na stránce "List of awards".
 
 
 ### My motivation:
@@ -42,12 +44,15 @@ Zadávání nového cíle - tato stránka se zobrazí po kliknutí na jednu z ak
 ![Setting a new habit](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/b11cf5b2-7ff5-457c-b9ff-11649bb2bbff)
 
 
+![Set goal](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/2d109e90-546d-44a7-a84d-1965c4880403)
+
+
 ### Settings:
 Nástřel možného vzhledu a obsahu nastavení. Detaily v nastavení jsou jen pro pokročilé a zaujaté jedince, kteří by měli s aplikací vážnější účely. Pokud by někdo chtěl projekt opravdu rozjet a hodně doladit, kdyžtak mě kontaktujte na emailu: latova.verca@seznam.cz a třeba se domluvíme (:D)
 
-![Set goal](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/2d109e90-546d-44a7-a84d-1965c4880403)
+![Settings](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/30a64dbc-a24b-4d11-915b-444f63ee6fdd)
 
- 
+
 ### Vizuál a barvy
 Vývojář může zvolit využití barev, jak se mu zalíbí. Ve Figmě se nachází doporučená paleta barev, které by se mohly k projektu hodit. Já pro tento projekt ponechám jednoduchý a čistý design.
 
