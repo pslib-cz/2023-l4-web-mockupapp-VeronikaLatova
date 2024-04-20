@@ -26,6 +26,10 @@ Stránka s oceněními získanými za poslední měsíc. Stránka se vyčistí p
 
 ![Achievements](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/18c40303-cfb3-45fa-82af-261059546437)
 
+Pokud uživatel zatím nemá žádná ocenění, ukáže se obrazovka s "No achievements yet. Keep going!"
+
+![Achievements - blank page](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/e7983eec-9f41-4290-b500-23b2dc3dc619)
+
 
 ### My motivation:
 Motivace uživatele v průběhu zadávání aktivit. Uživatel si může zpětně přečíst, co ho motivovalo danou aktivitu plnit. Do této sekce se zaznamenává motivace za celou dobu používání aplikace. To, jestli si uživatel napíše něco k motivaci, je na něm.
