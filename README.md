@@ -36,6 +36,7 @@ Seznam všech ocenění je na stránce "List of awards".
 
 ### My motivation:
 Motivace uživatele v průběhu zadávání aktivit. Uživatel si může zpětně přečíst, co ho motivovalo danou aktivitu plnit. Do této sekce se zaznamenává motivace za celou dobu používání aplikace. To, jestli si uživatel napíše něco k motivaci, je na něm.
+
 ![My motivation](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/2e9b3ba3-47cc-4d7e-9113-171412edb9cb)
 
 
