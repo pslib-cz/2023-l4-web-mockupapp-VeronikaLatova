@@ -6,6 +6,7 @@ Aplikace "Habit Journeys" slouží k trackování týdenních cílů, týkajíc�
 Jsou zabudovány kategorie činností, které se mohou zaznamenávat. Je to velmi jednoduché, proto je kategorií jen pár: pohyb, zdravá strava, pitný režim, vzdělání a skills, relax, čas v přírodě, kvalitní spánek. Aplikace je vhodná pro ty, kteří si chtějí zlepšit svůj životní styl zajímavějším způsobem.
 **[Odkaz na Figmu](https://www.figma.com/file/aKpfvcfIHLjfjn9RtpMse4/Habit-Journeys?type=design&node-id=0-1&mode=design&t=6LlAr8usJtDieCb0-0)**
 
+
 ## Aplikace má několik sekcí (stránek) a to:
 
 ### Mainpage (My progress): 
@@ -67,3 +68,5 @@ Použitý font písma je Lexend. Podrobnější informace jsou ve Figmě (o tom,
 
 ### Menu
 Uživatele po celou dobu používání provází jednoduché menu, přičemž je žlutou barvou vyznačena ikonka stránky, na které se nachází.
+
+Pro lepší orientaci v projektu a jeho stránkách se stačí podívat na Figmu, kde je vše přehlednější. Dokonce je přidán i stručný prototype pro jasnější pochopení.
