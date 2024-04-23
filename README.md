@@ -16,6 +16,10 @@ Hlavní stránka, na které se uživatel objeví po otevření aplikace. Na tét
 
 ![Group 17](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/ab89f8be-e3c4-4b03-b72a-d786a4880fa0)
 
+Prázdná stránka vypadá takto:
+
+![My progress - blank page](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/01e8938f-1c2c-4bae-be1b-d258ca290cdd)
+
 
 Na této stránce se jednotlivé kruhy s aktivitou dají rozkliknout. Uživatel vidí zpětně co si zadal za konkrétní cíl (čemu se přesně věnuje, kolikrát týdně a jeho motivace) . Tato stránka je skoro stejná, jako u zadávání nového cíle, ale má upravená některá slova a chybí tlačítko "done". Místo toho je tam tlačítko "delete", pokud by uživatel chtěl aktivitu smazat.
 
