@@ -14,6 +14,8 @@ Hlavní stránka, na které se uživatel objeví po otevření aplikace. Na tét
 
 ![image](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/e233b9ed-23a8-4aa0-a54c-a91edb7a3c14)
 
+Po kliknutí na checkmark:
+
 ![Group 17](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/ab89f8be-e3c4-4b03-b72a-d786a4880fa0)
 
 Prázdná stránka vypadá takto:
