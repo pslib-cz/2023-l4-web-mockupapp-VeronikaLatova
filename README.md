@@ -28,9 +28,11 @@ Na stránce "My progress" se jednotlivé kruhy s aktivitou dají také rozklikno
 ![My progress - click - delete activity](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/1a51c63e-af82-41be-9b25-0dfd17cbfd91)
 
 
-Co se týče kruhu a jeho naplňování - je rozdělen na úseky podle čísla, které si uživatel stanovil při zapisování nového habitu. Jakmile uživatel dosáhne celého žlutého kruhu, aktivita se ukáže jako dokončená a objeví se v awards jako splněná. Pokud uživatel udělal během měsíce aktivitu vícekrát (což je očekáváno), u daného ocenění se objeví číslo podle toho, kolikrát je aktivita již dokončena.
+Co se týče kruhu a jeho naplňování - je rozdělen na úseky podle čísla, které si uživatel stanovil při zapisování nového habitu. Jakmile uživatel dosáhne celého žlutého kruhu, aktivita se ukáže jako dokončená a objeví se v awards jako splněná. Pokud uživatel udělal během měsíce aktivitu vícekrát (což je očekáváno), u daného ocenění se objeví číslo podle toho, kolikrát je aktivita již dokončena. 
 
 ![Výstřižek](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/92384734-1e6c-4e0b-af9e-e0ee22c2a6a6)
+
+Aktivitu ale během týdne nelze začínat vícekrát. Jakmile ji uživatel jednou má v progressu, ze stránky "New activity" zmízí a není možno ji mít vícekrát než jednou v "My progress". Optimální pro uživatele tedy je vypsat si veškeré cíle týkající se dané aktivity (např. běh i posilování), sečíst, kolikrát bude aktivitu dělat (např. běh 2x, cvičení 3x) a zadá výsledné číslo (tedy 5) do pole "How many times a week am I willing to improve?".
 
 ### Achievements and awards:
 Stránka s oceněními získanými za poslední měsíc. Stránka se vyčistí právě jednou měsíčně.
@@ -78,6 +80,12 @@ Vývojář může zvolit využití barev, jak se mu zalíbí. Ve Figmě se nach�
 
 ### Font
 Použitý font písma je Lexend. Podrobnější informace jsou ve Figmě (o tom, jaké písmo je tučně a jaké normální či tenké).
+
+### Přehled ocenění, činností a textů při zadávání aktivity
+Je zde také přiložena excelová tabulka "Awards, habits and text", kde jsou vypsané vysvětlivky a podrobnosti aktivity (např. že fighting skills = workout and movement).
+
+### Obrázky
+Obrázky jednotlivých aktivit jsou ve složce "images", kde jsou i korektně pojmenovány.
 
 ### Menu
 Uživatele po celou dobu používání provází jednoduché menu, přičemž je žlutou barvou vyznačena ikonka stránky, na které se nachází.
