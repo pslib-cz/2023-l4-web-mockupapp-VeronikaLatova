@@ -21,7 +21,7 @@ Prázdná stránka vypadá takto:
 ![My progress - blank page (1)](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/e8d2a570-d6e4-44ed-b29f-71d2f76e4fe6)
 
 
-Na této stránce se jednotlivé kruhy s aktivitou dají rozkliknout. Uživatel vidí zpětně co si zadal za konkrétní cíl (čemu se přesně věnuje, kolikrát týdně a jeho motivace) . Tato stránka je skoro stejná, jako u zadávání nového cíle, ale má upravená některá slova a chybí tlačítko "done". Místo toho je tam tlačítko "delete", pokud by uživatel chtěl aktivitu smazat.
+Na stránce "My progress" se jednotlivé kruhy s aktivitou dají také rozkliknout. Uživatel vidí zpětně co si zadal za konkrétní cíl (čemu se přesně věnuje, kolikrát týdně a jeho motivace). Tato stránka je skoro stejná, jako u zadávání nového cíle, ale má upravená některá slova a chybí tlačítko "done". Místo toho je tam tlačítko "delete", pokud by uživatel chtěl aktivitu smazat.
 
 ![My progress - click](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/179beb72-1717-474e-8eab-3a6c1d9cff73)
 
