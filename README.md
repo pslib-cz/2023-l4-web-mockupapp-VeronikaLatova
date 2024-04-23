@@ -33,7 +33,7 @@ Pokud uživatel zatím nemá žádná ocenění, ukáže se obrazovka s "No achi
 
 Seznam všech ocenění je na stránce "List of awards".
 
-![image](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/a3652d8e-a039-4a8c-ad7c-9f5cb2c5ec87)
+![Possible awards](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/341b4204-7a06-41e3-a9d9-bba9aaca51b1)
 
 
 ### My motivation:
