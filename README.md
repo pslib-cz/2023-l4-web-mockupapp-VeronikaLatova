@@ -33,6 +33,8 @@ Pokud uživatel zatím nemá žádná ocenění, ukáže se obrazovka s "No achi
 
 Seznam všech ocenění je na stránce "List of awards".
 
+![image](https://github.com/pslib-cz/2023-l4-web-mockupapp-VeronikaLatova/assets/107682367/a3652d8e-a039-4a8c-ad7c-9f5cb2c5ec87)
+
 
 ### My motivation:
 Motivace uživatele v průběhu zadávání aktivit. Uživatel si může zpětně přečíst, co ho motivovalo danou aktivitu plnit. Do této sekce se zaznamenává motivace za celou dobu používání aplikace. To, jestli si uživatel napíše něco k motivaci, je na něm.
